@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer section">
       <div className="container footer-container">
         <div className="footer-col">
-          <h3 className="footer-logo">L'Étoile</h3>
+          <h3 className="footer-logo">Virat Hotel</h3>
           <p className="footer-desc">
             A journey through exceptional flavors, curated by master chefs in an ambiance of pure elegance.
           </p>
@@ -49,7 +49,7 @@ const Footer = () => {
       </div>
       
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} L'Étoile Restaurant. All Rights Reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Virat Hotel Restaurant. All Rights Reserved.</p>
       </div>
     </footer>
   );

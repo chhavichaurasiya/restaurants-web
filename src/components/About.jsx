@@ -21,7 +21,7 @@ const About = () => {
           <h4 className="text-gold section-subtitle">Our Story</h4>
           <h2 className="section-title">Culinary Artistry Redefined</h2>
           <p className="about-text">
-            At L'Étoile, we believe that dining is not just about sustenance, but an experience that engages all the senses. Founded by award-winning Chef Julien Dubois, our restaurant brings together the finest locally-sourced ingredients and innovative culinary techniques.
+            At Virat Hotel, we believe that dining is not just about sustenance, but an experience that engages all the senses. Founded by award-winning Chef Julien Dubois, our restaurant brings together the finest locally-sourced ingredients and innovative culinary techniques.
           </p>
           <p className="about-text">
             Every dish tells a story of passion, precision, and a relentless pursuit of perfection. Step into our world and let us take you on an unforgettable gastronomic adventure.

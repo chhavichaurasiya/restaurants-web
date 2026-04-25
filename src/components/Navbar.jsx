@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${scrolled ? 'scrolled glass-panel' : ''}`}>
       <div className="container nav-container">
-        <a href="#home" className="logo">L'Étoile</a>
+        <a href="#home" className="logo">Virat Hotel</a>
         
         <div className={`nav-links ${mobileMenuOpen ? 'active' : ''}`}>
           {navLinks.map((link) => (
