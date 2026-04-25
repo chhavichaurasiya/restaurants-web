@@ -21,7 +21,7 @@ const Navbar = () => {
     { name: 'Menu', href: '#menu' },
     { name: 'Gallery', href: '#gallery' },
     { name: 'Reservation', href: '#reservation' },
-  ];
+  ]; 
 
   return (
     <nav className={`navbar ${scrolled ? 'scrolled glass-panel' : ''}`}>
